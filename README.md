@@ -21,4 +21,7 @@ pip install torch
 - Install the transformer library
 ```Bash
 pip install transformers
+
+pip install pandas
+pip install chardet
 ```
