@@ -42,12 +42,20 @@ import nltk
 nltk.download('stopwords')
 nltk.download('punkt_tab')
 nltk.download('wordnet')
+nltk.download('averaged_perceptron_tagger_eng')
 ```
 
 - Update nbformat (used for plot)
 ```bash
 pip install --upgrade nbformat
 ```
+
+
+- Plots
+```bash
+pip install matplotlib
+```
+
 
 - Image exporting as file
 ```bash
