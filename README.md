@@ -9,6 +9,8 @@ Cybersecurity news articles are extracted from a custom built database stored on
 
 The summarized articles are analyzed by:
 - 1. counting and plotting their frequencies per search keywords
+![Threat Actors](/_pic/threat_actors.png)
+![Topics](/_pic/topics.png)
 
 - 2. a frequency distribution
 ![Frequency Distribution](/_pic/frequency_distribution.png)
