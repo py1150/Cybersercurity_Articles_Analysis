@@ -25,3 +25,31 @@ pip install transformers
 pip install pandas
 pip install chardet
 ```
+
+- Install nltk
+```Bash
+pip install nltk
+```
+
+- Install graphical packages
+```Bash
+pip intall plotly
+```
+
+- Install nltk modules
+```Python
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt_tab')
+nltk.download('wordnet')
+```
+
+- Update nbformat (used for plot)
+```bash
+pip install --upgrade nbformat
+```
+
+- Image exporting as file
+```bash
+pip install -U kaleido
+```
