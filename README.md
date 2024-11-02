@@ -1,5 +1,5 @@
-# articles_summary
-Applies pre-trained LLMs to perform text tasks
+# Cybersecurity Articles Analysis
+Applies a pre-trained LLM (_t5-small_) and various NLP methods on Cyber Security news articles
 
 
 
