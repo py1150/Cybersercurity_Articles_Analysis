@@ -8,14 +8,15 @@ Applies pre-trained LLMs to perform text tasks
 Cybersecurity news articles are extracted from a custom built database stored on AWS S3. Each full length article in the dataset is summarized with a pretrained Hugging Face LLM, i.e.,  _t5-small_.
 
 The summarized articles are analyzed by:
-- 1. counting and plotting their frequencies per search keywords
+
+1. counting and plotting their frequencies per search keywords  
 ![Threat Actors](/_pic/threat_actors.png)
 ![Topics](/_pic/topics.png)
 
-- 2. a frequency distribution
+2. a frequency distribution  
 ![Frequency Distribution](/_pic/frequency_distribution.png)
 
-- 3. a dispersion plot of the most frequent words
+3. a dispersion plot of the most frequent words  
 ![Dispersion Plot](/_pic/dispersion_plot.png)
 
 
